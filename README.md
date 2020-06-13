@@ -1,9 +1,9 @@
 # dojo_qiskit
 Quantum Native Dojo (https://dojo.qulacs.org/ja/latest/index.html) の第2、4～8章のそれぞれから実装コードを1組づつ選び、それらをQiskitで実装しなおしました。
 使う理論(数学)、基本的なコードの構造はDojoにあがっているものと同じで、Qulacsを使われている部分を全てQiskitに置き換えました。以下、各ipynbファイルの説明です。google colabであればそのまま実行可能になっています。その際は各コードの一番上の
-"""
+```
 !pip install qiskit
-"""
+```
 のような部分の実行が必要です。
 
 ## 2_3_QFT.ipynb
@@ -22,4 +22,8 @@ Quantum Native Dojo 第5章の「5.2. Quantum Circuit Learning」のセクショ
 Quantum Native Dojo 第6章の「6.2. Qulacsを用いたvariational quantum eigensolver (VQE)の実装」のセクションをQiskit実装したものです。
 
 ## 7_1_phase_estimation.ipynb
-Quantum Native Dojo 第5章の「5.2. Quantum Circuit Learning」のセクションをQiskit実装したものです。
+Quantum Native Dojo 第7章の「7-1. 量子位相推定アルゴリズム詳説：水素分子への応用を例として」のセクションをQiskit実装したものです。
+
+## 8_2_Grovers_algorithm.ipynb
+Quantum Native Dojo 第8章の「8.2. グローバーのアルゴリズム」のセクションをQiskit実装したものです。
+
