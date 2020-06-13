@@ -1,6 +1,6 @@
 # dojo_qiskit
 Quantum Native Dojo (https://dojo.qulacs.org/ja/latest/index.html) の第2、4～8章のそれぞれから実装コードを1,2組づつ選び、それらをQiskitで実装しなおしてみました。
-使う理論(数学)、基本的なコードの構造はDojoにあがっているものと同じで、Qulacsを使われている部分を全てQiskitに置き換えました。以下、各ipynbファイルの説明です。google colabであればそのまま実行可能になっています。その際は各コードの一番上の
+使う理論(数学)、基本的なコードの構造はDojoにあがっているものと同じで、Qulacsを使われている部分を全てQiskitに置き換えました。以下、各ipynbファイルの説明です。google colabであればそのまま実行可能になっています。ただし、その際は各コードの一番上の
 ```
 !pip install qiskit
 ```
