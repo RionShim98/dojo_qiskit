@@ -6,7 +6,7 @@ Quantum Native Dojo (https://dojo.qulacs.org/ja/latest/index.html) の第2、4�
 ```
 のような部分の実行が必要です。
 
-2_3_QFT.ipynb
+## 2_3_QFT.ipynb
 Quantum Native Dojo 第2章の「2.3. 量子フーリエ変換」のセクションをQiskit実装したものです。このファイルのみ、実機(IBM Q)を使ったのでIBM experienceのアカウントが必要となります。
 
 ## 4_2_trotter_dynamics.ipynb
