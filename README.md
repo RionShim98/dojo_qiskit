@@ -8,3 +8,8 @@ Quantum Native Dojo 第2章の「2.3. 量子フーリエ変換」のセクショ
 ## 4_2_trotter_dynamics.ipynb
 Quantum Native Dojo 第4章の「4.2. トロッター分解を用いた量子シミュレーション」の「量子ダイナミクスの実装(3)：厳密解との比較」のセクションをQiskit実装したものです。
 
+## 5_2_QCL.ipynb
+Quantum Native Dojo 第5章の「5.2. Quantum Circuit Learning」のセクションをQiskit実装したものです。
+
+## 5_3_QAOA.ipynb
+Quantum Native Dojo 第5章の「5.2. Quantum Circuit Learning」のセクションをQiskit実装したものです。
