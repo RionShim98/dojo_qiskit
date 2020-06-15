@@ -27,3 +27,6 @@ Quantum Native Dojo 第7章の「7-1. 量子位相推定アルゴリズム詳説
 ## 8_2_Grovers_algorithm.ipynb
 Quantum Native Dojo 第8章の「8.2. グローバーのアルゴリズム」のセクションをQiskit実装したものです。
 
+## 参考文献
+Quantum Native Dojo 
+https://dojo.qulacs.org/ja/latest/index.html
