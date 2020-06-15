@@ -7,7 +7,7 @@ Quantum Native Dojo (https://dojo.qulacs.org/ja/latest/index.html) の第2、4�
 のような部分の実行が必要です。
 
 ## 2_3_QFT.ipynb
-Quantum Native Dojo 第2章の「2.3. 量子フーリエ変換」のセクションをQiskit実装したものです。このファイルのみ、実機(IBM Q)を使ったのでIBM experienceのアカウントが必要となります。
+Quantum Native Dojo 第2章の「2.3. 量子フーリエ変換」のセクションをQiskit実装したものです。このファイルでは、実機(IBM Q)も使ったのでIBM experienceのアカウントが必要となります。
 
 ## 4_2_trotter_dynamics.ipynb
 Quantum Native Dojo 第4章の「4.2. トロッター分解を用いた量子シミュレーション」の「量子ダイナミクスの実装(3)：厳密解との比較」のセクションをQiskit実装したものです。
@@ -16,7 +16,7 @@ Quantum Native Dojo 第4章の「4.2. トロッター分解を用いた量子シ
 Quantum Native Dojo 第5章の「5.2. Quantum Circuit Learning」のセクションをQiskit実装したものです。
 
 ## 5_3_QAOA.ipynb
-Quantum Native Dojo 第5章の「5.2. Quantum Circuit Learning」のセクションをQiskit実装したものです。
+Quantum Native Dojo 第5章の「5.2. Quantum Circuit Learning」のセクションをQiskit実装したものです。このファイルでは、実機(IBM Q)も使ったのでIBM experienceのアカウントが必要となります。
 
 ## 6_2_VQE.ipynb
 Quantum Native Dojo 第6章の「6.2. Qulacsを用いたvariational quantum eigensolver (VQE)の実装」のセクションをQiskit実装したものです。
